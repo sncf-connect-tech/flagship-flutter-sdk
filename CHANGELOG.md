@@ -1,3 +1,6 @@
+# 4.0.4 - 19-12-2025
+
+- Update http, intl and uuid dependencies
 
 # 4.0.3 - 20/11/2025
 
